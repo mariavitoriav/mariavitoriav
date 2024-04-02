@@ -2,7 +2,7 @@
 
 ### About Me 😄
 
-I'm a passionate developer from Brazil with a background in *Chemical Engineering*, currently pursuing a degree in **Information Systems**. I hold an *MBA em Agile Project and Product Management*, which has equipped me with valuable skills in managing and delivering successful projects. My pronouns are she/her.
+I'm a passionate developer from Brazil with a background in *Chemical Engineering*, currently pursuing a degree in **Information Systems**. I hold an *MBA in Agile Project and Product Management*, which has equipped me with valuable skills in managing and delivering successful projects. My pronouns are she/her.
 
 ### My Journey 🚀
 
